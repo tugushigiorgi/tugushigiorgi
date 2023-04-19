@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
- 
+ <p alig="center"> 
  ![java-java-everywhere-meme-9507](https://user-images.githubusercontent.com/92800578/233122553-20d98ba4-06a7-4e22-8b3c-76dfe714dce5.jpg)
-
+</p>
  
 <p align="left">
 </p>
