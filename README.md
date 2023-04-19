@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
-<h3 align="center">I have a solid understanding of backend development, including designing and implementing APIs, managing databases, and handling server-side logic. I am skilled in using technologies like Spring MVC, Hibernate, and relational databases like MySQL and Firebase. In Front end Development I use as you guess popular JavaScript libraries/frameworks like React and Vue.js (Vue is Best !). I have experience in creating responsive and interactive web applications, managing state and props, and implementing components using best practices.</h3>
+ 
+ ![java-java-everywhere-meme-9507](https://user-images.githubusercontent.com/92800578/233122553-20d98ba4-06a7-4e22-8b3c-76dfe714dce5.jpg)
 
- 
- 
  
 <p align="left">
 </p>
