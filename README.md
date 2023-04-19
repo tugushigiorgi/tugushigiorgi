@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
- 
+ ![eb56e20820758a491079bf505d54e993](https://user-images.githubusercontent.com/92800578/233124110-e6631eb6-5f99-4fd6-b660-c5c6a4313fbb.jpg)
+
  
 <p align="left">
 </p>
